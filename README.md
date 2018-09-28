@@ -1,6 +1,7 @@
 # machine-learning-curriculum
 This is my personal curriculum for learning abot ML. Additionally, I will add summaries for all MOOCs and books I finish. 
-I don't warrant the correctness and completeness of the notes. If you spot an error, feel free to create a PR.  
+I don't warrant the correctness and completeness of the notes. If you spot an error, feel free to create a PR. 
+The notes will be written using [Jupyter Notebook](https://jupyter.org/), because it allows me the usage of [LaTeX](https://www.latex-project.org/) notation.  
 Most of the curriculum is based on [this blog post](https://learningai.io/projects/2017/03/26/machine-learn-MOOC-curriculum.html).
 I propose doing it in the order listed below:
 
