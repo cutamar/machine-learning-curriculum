@@ -4,8 +4,8 @@ I don't warrant the correctness and completeness of the notes. If you spot an er
 Most of the curriculum is based on [this blog post](https://learningai.io/projects/2017/03/26/machine-learn-MOOC-curriculum.html).
 I propose doing it in the order listed below:
 
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) - I highly recommend this MOOC as a starting 
-point for self paced learning
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) + [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU) - I highly recommend this MOOC as a starting 
+point for self paced learning (the book is optional)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) - will give you a first overview on ML
 - [Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) -
 if you feel proficient using python, you can skip this one
