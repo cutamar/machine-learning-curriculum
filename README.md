@@ -15,7 +15,7 @@ if you feel proficient using python, you can skip this one
   [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0)
   - [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/) + 
   [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-  - or do all four of them in the listed order (it all depends on how deep you want to dive into mathematics)
+  - or do all four of them (it all depends on how deep you want to dive into mathematics)
 - [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) - probability, a must for ML
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) - one of the best Linear Algebra MOOCs available online
 - There are three ways for this one:
