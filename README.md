@@ -33,4 +33,10 @@ this one is optional
 [accompanying text](http://www.inference.org.uk/itprnn/book.pdf) - set yourself apart from the crowd
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) +
 [Deep Learning Book](http://www.deeplearningbook.org/) - you need to invent side projects, to get the most out of it 
-- [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) - take it with the *"Honors"* option
+- [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) - take it with the *"Honors"* option  
+
+*LaTeX Notes:* As it seems, the GitHub markdown renderer, has problems when using `$\sum\limits$`, so just use `$\sum$`. Also linebreaks are not rendered, e.g. `$$\alpha \\ \beta$$` will not work, it will render them in one line. The workaround solution is, to change it to: 
+```
+$$\alpha$$
+$$\beta$$
+```
