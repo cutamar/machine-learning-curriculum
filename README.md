@@ -34,3 +34,4 @@ this one is optional
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) +
 [Deep Learning Book](http://www.deeplearningbook.org/) - you need to invent side projects, to get the most out of it 
 - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) - take it with the *"Honors"* option
+$\alpha$
