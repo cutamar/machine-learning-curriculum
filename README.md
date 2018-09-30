@@ -2,6 +2,7 @@
 This is my personal curriculum for learning abot ML. Additionally, I will add summaries for all MOOCs and books I finish. 
 I don't warrant the correctness and completeness of the notes. If you spot an error, feel free to create a PR. 
 The notes will be written using [Jupyter Notebook](https://jupyter.org/), because it allows me the usage of [LaTeX](https://www.latex-project.org/) notation.  
+**Important:** Unfortunately, as it seems, GitHub's markdown renderer has many problems, so please use [this link](https://nbviewer.jupyter.org/github/cutamar/machine-learning-curriculum/tree/master/) to display the notebooks correctly.  
 Most of the curriculum is based on [this blog post](https://learningai.io/projects/2017/03/26/machine-learn-MOOC-curriculum.html).
 I propose doing it in the order listed below:
 
@@ -34,9 +35,3 @@ this one is optional
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) +
 [Deep Learning Book](http://www.deeplearningbook.org/) - you need to invent side projects, to get the most out of it 
 - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) - take it with the *"Honors"* option  
-
-*LaTeX Notes:* As it seems, the GitHub markdown renderer, has problems when using `$\sum\limits$`, so just use `$\sum$`. Also linebreaks are not rendered, e.g. `$$\alpha \\ \beta$$` will not work, it will render them in one line. The workaround solution is, to change it to: 
-```
-$$\alpha$$
-$$\beta$$
-```
